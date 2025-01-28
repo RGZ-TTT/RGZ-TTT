@@ -6,7 +6,7 @@
 
 <div id="badges">
   <a href="">
-    <img src="![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)"/>
+    <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
